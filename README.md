@@ -41,8 +41,8 @@ This repository includes simple programs for:
    ```
 2. Compile and run any .c file using GCC:
   ```bash
-  gcc filename.c -o output
-  ./output
+   gcc filename.c -o output
+   ./output
   ```
   🔁 Replace filename.c with your actual file name.
 
