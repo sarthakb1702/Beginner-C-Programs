@@ -34,12 +34,12 @@ This repository includes simple programs for:
 
 ## ⚙️ How to Run the Code
 
-1. ###Clone the repo:
+### 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/Basic-C-programs.git
    cd Basic-C-programs
    ```
-2. ###Compile and run any .c file using GCC:
+### 2. Compile and run any .c file using GCC:
    ```bash
    gcc filename.c -o output
    ./output
