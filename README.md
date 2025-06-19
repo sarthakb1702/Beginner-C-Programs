@@ -47,7 +47,7 @@ This repository includes simple programs for:
   🔁 Replace filename.c with your actual file name.
   
 
-💡 ##Who is this for?
+## 💡 Who is this for?
 This repo is perfect for:
 
 Beginners learning C language
@@ -57,11 +57,11 @@ Students practicing for exams or interviews
 Anyone wanting to revisit C fundamentals through hands-on code
 
 
-📌 ##Note
+## 📌 Note
 Some programs use stdio.h, stdlib.h, or time.h.
 
 The games require the rand() function for randomness.
 
 
-🙌 ##Contributions
+## 🙌 Contributions
 Feel free to fork, improve, or suggest more beginner-level C programs!
