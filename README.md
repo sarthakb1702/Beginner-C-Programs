@@ -40,10 +40,10 @@ This repository includes simple programs for:
    cd Basic-C-programs
    ```
 2. Compile and run any .c file using GCC:
-  ```bash
+   ```bash
    gcc filename.c -o output
    ./output
-  ```
+   ```
   🔁 Replace filename.c with your actual file name.
 
 💡 Who is this for?
